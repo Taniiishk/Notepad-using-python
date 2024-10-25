@@ -4,13 +4,13 @@
 This is an implementation of a Notepad application with a basic editor in Python using Tkinter. This application supports the most basic file operations-these include creating a new file, opening an existing file, saving the current file, and has an edit menu functionality that includes cutting, copying, pasting, and selecting all along with a help menu in which an online link to help is attached and also includes an about section that displays the text contents inside the text file.
 
 ## Features
- - **Create a new file **
- - **Open a file **
- - **Save the current file **
- - **Cut, copy, and paste text **
- - **Select all text **
- - **Link in the Help menu to an online resource **
- - **About which it displays information about a text file **
+ - **Create a new file 
+ - **Open a file 
+ - **Save the current file 
+ - **Cut, copy, and paste text 
+ - **Select all text 
+ - **Link in the Help menu to an online resource 
+ - **About which it displays information about a text file 
 
 ## Setup
 1. Verify that you have Python installed on your computer.
