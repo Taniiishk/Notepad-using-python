@@ -44,7 +44,7 @@ def select_all():
     text_edit.tag_add("sel", "1.0", "end")
 
 def open_help():
-    webbrowser.open("http://your-help-link.com")
+    webbrowser.open("https://github.com/Taniiishk/Notepad-using-python")
 
 def show_about():
     about_file = "about.txt"
