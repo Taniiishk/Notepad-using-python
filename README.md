@@ -1,10 +1,10 @@
 # 📝 Notepad Application
 
 ## Introduction to Tkinter in Python 🐍
-Tkinter is Python's standard GUI (Graphical User Interface) package. It provides a powerful object-oriented interface to create and manage GUI applications. With Tkinter, you can design windows, dialogs, buttons, menus, text boxes, and much more. It’s an essential library for any Python developer looking to create desktop applications easily and effectively.
+Tkinter is Python's de-facto standard GUI (Graphical User Interface) package. It provides a powerful object-oriented interface to create and manage GUI applications. With Tkinter, you can design windows, dialogs, buttons, menus, text boxes, and much more. It is an essential library for any Python developer looking to create desktop applications easily and effectively.
 
 ## Description ✏️
-This Notepad application is a simple text editor built using Python and Tkinter. It supports basic file operations like creating a new file, opening an existing file, and saving the current file. The application also includes an edit menu with basic cut, copy, paste, and select all functionalities, as well as a help menu with a link to an online help page and an about section displaying information from a text file.
+It's a simple text editor, implemented with Python and Tkinter. The application supports the operations on the files: open a new file, open existing file and save the current file in various file modes, and also it has edit menu with cut, copy, paste options, select all, as well as an option to view online help page and "about" section display information from a text file.
 
 ## Features 🌟
 - 🆕 Create a new file
